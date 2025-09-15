@@ -1,0 +1,201 @@
+Order_ID,Customer_Name,City,Product_Category,Sub_Product,Brand,Quantity,Price,Total_Sales,Order_Date,Payment_Mode,Delivery_Status
+1001,Hridaan Rau,Jabalpur,Clothing,Kurti,Bajaj,1,23694,23694,2024-07-28,COD,Pending
+1002,Krish Chowdhury,Pune,Home Appliances,Washing Machine,Haldiram,5,1808,9040,2025-07-16,,Delivered
+1003,Mahika Bedi,Indore,Electronics,Camera,Tata,5,45448,227240,2024-01-27,UPI,Cancelled
+1004,Divit Subramaniam,Mumbai,Electronics,Camera,Haldiram,5,14755,73775,2025-04-18,COD,Delivered
+1005,Ivana Subramaniam,Mumbai,Electronics,Headphones,FabIndia,2,9088,18176,2025-03-03,Debit Card,Pending
+1006,Vanya Swamy,Bhopal,Clothing,T-Shirt,VIP,3,24055,72165,2024-10-06,Debit Card,Cancelled
+1007,Shray Varghese,Indore,Clothing,Saree,,3,14553,43659,2025-04-10,COD,
+1008,Ehsaan Jaggi,Bhopal,Home Appliances,Mixer,FabIndia,1,46695,46695,2024-11-09,Wallet,Delivered
+1009,Urvi Mall,Pune,Electronics,Laptop,,2,29324,58648,2024-10-18,,Pending
+1010,Taimur Ahluwalia,Bhopal,Clothing,T-Shirt,Boat,5,57341,286705,2025-04-14,COD,
+1011,Abram Bassi,Jabalpur,Home Appliances,Mixer,Haldiram,2,57385,114770,2024-04-08,Wallet,Pending
+1012,Vardaniya Sarma,Jabalpur,Clothing,Saree,Haldiram,2,58773,117546,2023-12-23,Wallet,Cancelled
+1013,Ayesha Sule,Jabalpur,Home Appliances,Fan,Haldiram,1,39523,39523,2025-08-21,COD,Delivered
+1014,Piya Sarin,Indore,Electronics,Laptop,VIP,3,38635,115905,2023-10-09,Debit Card,Cancelled
+1015,Tara Deep,Jabalpur,Home Appliances,Washing Machine,Haldiram,5,19103,95515,2023-12-16,Credit Card,Pending
+1016,Aarna Butala,Bhopal,Electronics,Mobile,FabIndia,4,26516,106064,2024-03-13,Credit Card,
+1017,Vaibhav Din,Mumbai,Electronics,Mobile,VIP,4,28614,114456,2024-03-24,Wallet,Cancelled
+1018,Hansh Ratta,Indore,Home Appliances,Microwave,Bajaj,2,28045,56090,2025-01-02,COD,
+1019,Kashvi Jani,Mumbai,Clothing,Saree,,5,15240,76200,2023-11-06,Debit Card,Pending
+1020,Lavanya Doshi,Mumbai,Home Appliances,Fridge,FabIndia,2,3430,6860,2024-07-08,Debit Card,
+1021,Nehmat Gara,Indore,Clothing,Shirt,Reliance,2,5601,11202,2024-06-01,Credit Card,
+1022,Hazel Rajagopalan,Jabalpur,Home Appliances,Fridge,Tata,4,51790,207160,2025-05-06,Credit Card,
+1023,Mishti Dugar,Bhopal,Clothing,Saree,Boat,5,14769,73845,2024-08-29,COD,Cancelled
+1024,Saira Ghose,Pune,Clothing,T-Shirt,VIP,5,20716,103580,2024-02-14,Wallet,Pending
+1025,Piya Dugar,Mumbai,Home Appliances,Microwave,Tata,5,4643,23215,2024-09-11,,
+1026,Suhana Vora,Mumbai,Clothing,Saree,VIP,3,5346,16038,2024-08-05,UPI,
+1027,Zara Bhatia,Pune,Home Appliances,Washing Machine,FabIndia,5,4048,20240,2024-05-14,,Delivered
+1028,Suhana Sachdeva,Pune,Home Appliances,Fan,FabIndia,5,37234,186170,2024-02-20,Wallet,Cancelled
+1029,Sara Agate,Mumbai,Home Appliances,Washing Machine,,3,23653,70959,2024-07-21,Credit Card,Delivered
+1030,Yashvi Ben,Pune,Clothing,Saree,,5,46539,232695,2025-02-02,,Delivered
+1031,Amani Ranganathan,Bhopal,Electronics,Mobile,FabIndia,4,29961,119844,2025-08-04,COD,Delivered
+1032,Eva Srinivasan,Bhopal,Clothing,T-Shirt,Haldiram,5,46365,231825,2025-02-10,Wallet,Cancelled
+1033,Samarth Handa,Pune,Electronics,Laptop,Tata,3,56614,169842,2023-10-01,UPI,Delivered
+1034,Vaibhav Master,Mumbai,Electronics,Laptop,Boat,1,28792,28792,2025-02-25,Wallet,Delivered
+1035,Aarush Rege,Mumbai,Clothing,Jeans,Boat,2,32409,64818,2024-08-02,Wallet,Pending
+1036,Azad Desai,Bhopal,Clothing,Jeans,FabIndia,1,58397,58397,2023-09-30,UPI,Pending
+1037,Umang Sunder,Pune,Electronics,Camera,FabIndia,3,21709,65127,2023-10-07,Debit Card,Delivered
+1038,Samarth Thakkar,Jabalpur,Home Appliances,Mixer,Bajaj,4,7364,29456,2025-08-16,COD,Pending
+1039,Indranil Gopal,Jabalpur,Home Appliances,Microwave,Boat,5,18296,91480,2025-07-01,Debit Card,Pending
+1040,Emir Bala,Indore,Clothing,Saree,Haldiram,4,56128,224512,2024-03-10,Credit Card,Pending
+1041,Keya Taneja,Pune,Electronics,Headphones,Haldiram,5,10351,51755,2024-07-30,Wallet,Cancelled
+1042,Kanav Kibe,Pune,Electronics,Laptop,,5,41264,206320,2024-01-22,Credit Card,Cancelled
+1043,Eshani Tank,Bhopal,Home Appliances,Washing Machine,Boat,4,4935,19740,2024-08-24,UPI,Pending
+1044,Suhana Kale,Jabalpur,Electronics,Headphones,FabIndia,5,46764,233820,2025-08-21,COD,
+1045,Jiya Chaudry,Bhopal,Clothing,Jeans,Reliance,1,45457,45457,2025-08-24,Credit Card,Cancelled
+1046,Madhav Barad,Mumbai,Electronics,Tablet,FabIndia,3,33923,101769,2025-07-17,Debit Card,Cancelled
+1047,Keya Sawhney,Jabalpur,Electronics,Camera,,5,55155,275775,2025-02-26,Wallet,Delivered
+1048,Armaan Andra,Bhopal,Electronics,Headphones,FabIndia,1,47350,47350,2025-08-20,Wallet,
+1049,Divij Boase,Pune,Clothing,Saree,Bajaj,4,1155,4620,2024-12-06,Debit Card,Delivered
+1050,Ayesha Sachdev,Pune,Clothing,Jeans,Haldiram,3,15845,47535,2024-09-14,UPI,Delivered
+1051,Purab Mani,Bhopal,Electronics,Laptop,,1,23280,23280,2025-01-19,UPI,Delivered
+1052,Siya Varghese,Indore,Home Appliances,Washing Machine,Tata,4,11817,47268,2025-04-11,Credit Card,
+1053,Ryan Srinivasan,Mumbai,Clothing,Kurti,Reliance,5,39733,198665,2024-01-10,COD,Pending
+1054,Aarna Keer,Pune,Electronics,Headphones,VIP,1,47802,47802,2025-07-19,Wallet,Cancelled
+1055,Zoya Kar,Mumbai,Home Appliances,Fridge,FabIndia,4,42397,169588,2024-08-11,UPI,Cancelled
+1056,Indranil Dhawan,Jabalpur,Electronics,Headphones,Haldiram,2,23253,46506,2024-12-19,Credit Card,Delivered
+1057,Vaibhav Joshi,Mumbai,Clothing,T-Shirt,Haldiram,1,26445,26445,2023-10-16,Debit Card,Pending
+1058,Adira Boase,Pune,Home Appliances,Microwave,Bajaj,1,27117,27117,2025-06-26,,Delivered
+1059,Navya Bhatt,Jabalpur,Electronics,Headphones,,1,58924,58924,2024-01-21,COD,Delivered
+1060,Drishya Badami,Pune,Home Appliances,Fridge,Tata,3,45006,135018,2023-09-16,COD,Delivered
+1061,Yakshit Devi,Jabalpur,Electronics,Mobile,VIP,4,27433,109732,2024-05-02,Credit Card,Cancelled
+1062,Nayantara Bedi,Indore,Home Appliances,Washing Machine,Haldiram,1,49109,49109,2023-11-17,Debit Card,Delivered
+1063,Kiaan Rao,Mumbai,Clothing,Shirt,Reliance,2,18870,37740,2024-11-07,COD,
+1064,Inaaya  Barad,Mumbai,Clothing,Kurti,VIP,4,13431,53724,2024-03-24,Debit Card,Delivered
+1065,Kanav Subramaniam,Indore,Clothing,Kurti,FabIndia,1,36883,36883,2024-07-13,Wallet,Cancelled
+1066,Dhanuk Keer,Pune,Clothing,Saree,Reliance,1,48175,48175,2025-08-20,COD,Pending
+1067,Hunar Yadav,Pune,Electronics,Headphones,Haldiram,4,44251,177004,2024-12-14,UPI,
+1068,Samarth Biswas,Mumbai,Clothing,Kurti,Tata,4,1097,4388,2024-11-03,,Pending
+1069,Hiran De,Bhopal,Clothing,Shirt,Haldiram,2,34803,69606,2024-11-24,,Pending
+1070,Purab Chaudhuri,Bhopal,Home Appliances,Washing Machine,FabIndia,5,17634,88170,2024-10-08,UPI,Cancelled
+1071,Zeeshan Dutt,Mumbai,Clothing,Shirt,Tata,4,3324,13296,2025-06-14,Credit Card,Delivered
+1072,Indrans Kale,Mumbai,Electronics,Tablet,Bajaj,1,24585,24585,2025-06-02,,Delivered
+1073,Emir Gulati,Bhopal,Home Appliances,Washing Machine,Tata,5,28758,143790,2023-12-14,Credit Card,Pending
+1074,Raunak Sastry,Jabalpur,Home Appliances,Fan,FabIndia,3,58305,174915,2024-12-31,Credit Card,Cancelled
+1075,Pihu Som,Jabalpur,Home Appliances,Fridge,Tata,3,24130,72390,2024-01-02,Credit Card,Cancelled
+1076,Sana Bawa,Pune,Clothing,Kurti,VIP,2,41222,82444,2025-01-13,Debit Card,Pending
+1077,Purab Chhabra,Indore,Home Appliances,Fan,VIP,5,36327,181635,2024-05-18,Debit Card,Delivered
+1078,Zoya Suri,Pune,Clothing,T-Shirt,Tata,4,24437,97748,2025-06-10,Wallet,Delivered
+1079,Anahita Kashyap,Bhopal,Clothing,Saree,Bajaj,4,4001,16004,2025-03-26,Credit Card,Pending
+1080,Krish Kadakia,Jabalpur,Electronics,Camera,,2,19184,38368,2024-08-10,UPI,Pending
+1081,Khushi Seth,Jabalpur,Clothing,T-Shirt,Boat,4,29122,116488,2023-11-10,Debit Card,Cancelled
+1082,Misha Magar,Jabalpur,Clothing,T-Shirt,VIP,4,43548,174192,2024-02-06,Credit Card,Delivered
+1083,Himmat Bhasin,Bhopal,Home Appliances,Fan,Haldiram,2,51330,102660,2024-02-04,Debit Card,Delivered
+1084,Adah Basu,Jabalpur,Electronics,Tablet,FabIndia,3,57728,173184,2025-01-04,COD,Cancelled
+1085,Darshit Kara,Indore,Home Appliances,Mixer,VIP,1,45461,45461,2023-11-02,COD,
+1086,Piya Lad,Mumbai,Home Appliances,Fan,,4,56530,226120,2024-09-26,Credit Card,Delivered
+1087,Akarsh Mahal,Indore,Clothing,Saree,Haldiram,5,23858,119290,2024-02-13,UPI,Cancelled
+1088,Vihaan Gopal,Pune,Electronics,Tablet,Boat,3,59976,179928,2024-08-14,Wallet,
+1089,Hrishita Kibe,Bhopal,Clothing,Shirt,VIP,4,1597,6388,2024-02-11,Debit Card,Delivered
+1090,Mohanlal Apte,Jabalpur,Clothing,T-Shirt,Haldiram,1,37377,37377,2025-07-24,Debit Card,Pending
+1091,Krish Kurian,Mumbai,Home Appliances,Fan,Bajaj,4,35169,140676,2025-06-26,Debit Card,Delivered
+1092,Shlok Acharya,Mumbai,Clothing,Shirt,Tata,4,28564,114256,2025-09-02,Wallet,Cancelled
+1093,Himmat Mane,Bhopal,Clothing,Jeans,Bajaj,2,8563,17126,2025-05-05,COD,
+1094,Mahika Mannan,Indore,Home Appliances,Mixer,Boat,2,18063,36126,2024-06-17,,Delivered
+1095,Advika Setty,Pune,Home Appliances,Mixer,Bajaj,5,7640,38200,2023-10-21,Debit Card,
+1096,Yuvraj  Krish,Indore,Clothing,Shirt,Boat,3,51428,154284,2024-10-14,Debit Card,Pending
+1097,Inaaya  Sha,Mumbai,Home Appliances,Washing Machine,Boat,4,7831,31324,2025-03-18,UPI,Pending
+1098,Vardaniya Kota,Jabalpur,Clothing,Saree,VIP,3,35315,105945,2024-03-06,COD,Delivered
+1099,Divit Sachar,Bhopal,Home Appliances,Fridge,Bajaj,4,51676,206704,2023-12-21,Credit Card,Cancelled
+1100,Myra Zacharia,Pune,Clothing,Shirt,Boat,2,36268,72536,2023-11-19,COD,Delivered
+1101,Miraya Raval,Bhopal,Electronics,Mobile,FabIndia,5,46716,233580,2024-09-09,Credit Card,Pending
+1102,Ojas Srivastava,Mumbai,Home Appliances,Washing Machine,Boat,5,58211,291055,2024-08-12,Credit Card,Cancelled
+1103,Ishaan Rama,Pune,Electronics,Headphones,FabIndia,2,21549,43098,2025-05-10,,Delivered
+1104,Vaibhav Sundaram,Pune,Home Appliances,Mixer,Tata,3,44552,133656,2024-08-26,COD,
+1105,Vihaan Madan,Bhopal,Home Appliances,Microwave,,2,48661,97322,2023-12-08,,
+1106,Lagan Brar,Mumbai,Electronics,Camera,VIP,1,27972,27972,2024-08-30,Credit Card,Delivered
+1107,Adira Kala,Indore,Clothing,Jeans,Bajaj,4,37279,149116,2024-01-09,,Delivered
+1108,Anaya Dhingra,Jabalpur,Electronics,Camera,,1,45944,45944,2024-03-19,Credit Card,
+1109,Mohanlal Bhandari,Pune,Home Appliances,Fridge,Tata,5,40603,203015,2024-11-22,Debit Card,Pending
+1110,Prisha Kalla,Pune,Clothing,Kurti,FabIndia,1,3240,3240,2025-03-11,,Delivered
+1111,Parinaaz Ranganathan,Mumbai,Electronics,Laptop,Tata,3,59317,177951,2024-01-21,,Delivered
+1112,Hunar Thaman,Bhopal,Home Appliances,Mixer,Haldiram,4,20490,81960,2024-11-28,Credit Card,Pending
+1113,Anya Tandon,Jabalpur,Electronics,Laptop,Boat,3,36114,108342,2024-05-23,Debit Card,
+1114,Lavanya Sahota,Bhopal,Clothing,T-Shirt,Tata,1,7872,7872,2025-05-23,Wallet,Cancelled
+1115,Prisha Karan,Indore,Electronics,Laptop,,1,37307,37307,2024-09-30,COD,Delivered
+1116,Aniruddh Issac,Jabalpur,Home Appliances,Fridge,Reliance,2,57963,115926,2024-12-24,COD,
+1117,Tanya Chhabra,Mumbai,Electronics,Mobile,Haldiram,5,52623,263115,2025-09-10,Debit Card,Delivered
+1118,Vritika Vaidya,Mumbai,Home Appliances,Fridge,Boat,3,13530,40590,2025-01-30,Debit Card,Delivered
+1119,Priyansh Arora,Jabalpur,Clothing,Jeans,Haldiram,1,8569,8569,2024-06-12,COD,Cancelled
+1120,Raunak Khalsa,Pune,Clothing,Kurti,Haldiram,4,58141,232564,2024-08-10,Debit Card,Pending
+1121,Miraya Gera,Jabalpur,Home Appliances,Mixer,Boat,3,46757,140271,2024-05-16,Debit Card,
+1122,Azad Uppal,Bhopal,Electronics,Camera,VIP,1,58053,58053,2023-12-27,UPI,Pending
+1123,Gokul Chandran,Mumbai,Clothing,Kurti,Reliance,1,9250,9250,2024-09-22,Wallet,Delivered
+1124,Oorja Ramaswamy,Mumbai,Clothing,Saree,,3,6915,20745,2023-10-12,Debit Card,Pending
+1125,Adira Rajagopalan,Pune,Clothing,Kurti,Bajaj,2,28344,56688,2024-03-20,COD,Cancelled
+1126,Dhruv Soman,Mumbai,Clothing,Jeans,FabIndia,1,51785,51785,2024-09-06,Credit Card,Delivered
+1127,Biju Bera,Mumbai,Clothing,Jeans,Tata,4,36790,147160,2024-09-21,Wallet,
+1128,Dharmajan Bhalla,Pune,Home Appliances,Washing Machine,,1,30424,30424,2024-11-23,Wallet,
+1129,Emir Soni,Jabalpur,Electronics,Laptop,Tata,3,33905,101715,2024-12-06,Credit Card,
+1130,Himmat Kadakia,Indore,Home Appliances,Microwave,Boat,2,23383,46766,2024-08-01,Debit Card,Delivered
+1131,Mamooty Raman,Mumbai,Clothing,Shirt,Boat,4,34785,139140,2023-10-29,COD,Pending
+1132,Vardaniya Lalla,Mumbai,Home Appliances,Mixer,Haldiram,3,49062,147186,2024-08-05,,Delivered
+1133,Samaira Sinha,Mumbai,Clothing,Kurti,Boat,1,48811,48811,2025-03-09,COD,Pending
+1134,Sana Sha,Pune,Electronics,Mobile,FabIndia,3,39826,119478,2024-03-06,Wallet,Cancelled
+1135,Divij Kota,Pune,Electronics,Tablet,VIP,5,58926,294630,2025-04-04,Debit Card,
+1136,Romil Chander,Mumbai,Clothing,Saree,,2,54153,108306,2023-09-30,UPI,Delivered
+1137,Saira Dixit,Jabalpur,Home Appliances,Fan,Reliance,5,8594,42970,2024-04-01,,Cancelled
+1138,Biju Kashyap,Jabalpur,Clothing,Kurti,,1,41341,41341,2025-07-19,Wallet,Cancelled
+1139,Piya Deep,Bhopal,Home Appliances,Fan,Tata,4,48168,192672,2023-12-24,COD,
+1140,Kartik Madan,Bhopal,Home Appliances,Fan,FabIndia,2,29759,59518,2024-04-27,COD,Pending
+1141,Lakshay Badal,Mumbai,Electronics,Laptop,VIP,4,6138,24552,2025-04-23,,Pending
+1142,Siya Khosla,Bhopal,Electronics,Camera,Tata,1,40965,40965,2024-12-27,Debit Card,Pending
+1143,Lakshit Boase,Mumbai,Clothing,T-Shirt,FabIndia,1,1965,1965,2025-01-13,Debit Card,Delivered
+1144,Nishith Koshy,Bhopal,Clothing,Shirt,Tata,2,41989,83978,2023-09-28,COD,Pending
+1145,Oorja Subramanian,Indore,Home Appliances,Mixer,FabIndia,4,46772,187088,2024-08-29,COD,Cancelled
+1146,Misha Shanker,Mumbai,Home Appliances,Mixer,Boat,3,34636,103908,2024-06-06,UPI,
+1147,Anika Grewal,Jabalpur,Home Appliances,Microwave,Bajaj,3,53805,161415,2024-10-13,UPI,
+1148,Samiha Sridhar,Indore,Clothing,T-Shirt,,3,25531,76593,2024-06-03,COD,Pending
+1149,Madhup Thaker,Indore,Home Appliances,Washing Machine,FabIndia,2,11959,23918,2024-03-25,Credit Card,Cancelled
+1150,Myra Rege,Bhopal,Electronics,Headphones,,2,34764,69528,2025-02-04,COD,Pending
+1151,Aaina Ravel,Bhopal,Electronics,Laptop,Boat,4,24637,98548,2025-07-01,,Delivered
+1152,Ritvik Bora,Indore,Electronics,Camera,Haldiram,1,972,972,2025-08-05,Wallet,Delivered
+1153,Aarna Dhawan,Mumbai,Home Appliances,Mixer,Tata,2,33657,67314,2025-07-23,Credit Card,
+1154,Hansh Sathe,Indore,Home Appliances,Mixer,Boat,4,2725,10900,2024-08-05,Debit Card,Pending
+1155,Kashvi Chowdhury,Pune,Electronics,Laptop,Bajaj,2,6184,12368,2024-12-03,Credit Card,Delivered
+1156,Nakul Dey,Jabalpur,Electronics,Tablet,Tata,1,53936,53936,2024-10-07,Wallet,Cancelled
+1157,Vedika Sarraf,Bhopal,Electronics,Laptop,Tata,3,23176,69528,2024-08-10,Debit Card,Cancelled
+1158,Baiju Dhar,Mumbai,Electronics,Laptop,Tata,2,48081,96162,2025-07-29,Credit Card,Delivered
+1159,Nitara Singh,Indore,Electronics,Camera,Reliance,4,12143,48572,2024-04-14,Debit Card,Cancelled
+1160,Damini Aurora,Bhopal,Home Appliances,Mixer,Bajaj,4,55854,223416,2023-12-26,Credit Card,
+1161,Manjari Taneja,Bhopal,Clothing,Jeans,Boat,2,6485,12970,2024-04-08,COD,Delivered
+1162,Samar Kari,Mumbai,Electronics,Laptop,Bajaj,5,28501,142505,2024-12-29,,Delivered
+1163,Riaan Dey,Bhopal,Home Appliances,Fridge,VIP,3,36335,109005,2024-02-24,Wallet,Pending
+1164,Neysa Buch,Indore,Home Appliances,Washing Machine,Boat,1,15091,15091,2023-11-04,UPI,Pending
+1165,Nitara Gala,Pune,Home Appliances,Washing Machine,VIP,3,21918,65754,2024-08-13,COD,Delivered
+1166,Piya Mangal,Mumbai,Electronics,Mobile,,3,4986,14958,2024-04-18,COD,Delivered
+1167,Adira Mandal,Bhopal,Home Appliances,Microwave,Boat,5,59117,295585,2024-10-15,Wallet,Cancelled
+1168,Navya Upadhyay,Indore,Electronics,Laptop,Tata,5,56001,280005,2024-09-04,Debit Card,
+1169,Suhana Upadhyay,Pune,Home Appliances,Washing Machine,FabIndia,2,48251,96502,2024-09-13,,Delivered
+1170,Advik Kapur,Pune,Clothing,Jeans,Bajaj,5,22243,111215,2024-09-01,UPI,Delivered
+1171,Madhup Hayre,Pune,Electronics,Mobile,FabIndia,1,14338,14338,2024-05-15,COD,Cancelled
+1172,Miraya Choudhary,Indore,Clothing,Kurti,VIP,5,38367,191835,2023-10-19,Credit Card,Cancelled
+1173,Nayantara Handa,Indore,Home Appliances,Fan,VIP,1,43191,43191,2023-10-31,Debit Card,
+1174,Tushar Chhabra,Jabalpur,Clothing,Jeans,Reliance,4,15799,63196,2023-10-19,Debit Card,
+1175,Divyansh Vora,Jabalpur,Electronics,Headphones,Haldiram,3,13616,40848,2024-10-01,COD,Delivered
+1176,Zeeshan Anne,Jabalpur,Electronics,Mobile,Tata,3,46725,140175,2023-10-23,Credit Card,
+1177,Charvi Kanda,Indore,Clothing,Saree,Reliance,3,49227,147681,2024-01-08,Credit Card,Cancelled
+1178,Priyansh Bora,Bhopal,Home Appliances,Microwave,,4,51594,206376,2024-04-05,COD,Pending
+1179,Tiya Viswanathan,Jabalpur,Home Appliances,Fan,Reliance,1,31629,31629,2025-07-01,UPI,Pending
+1180,Purab Mammen,Mumbai,Electronics,Mobile,FabIndia,5,14277,71385,2023-09-20,,Pending
+1181,Saksham Manda,Bhopal,Electronics,Headphones,Bajaj,5,59325,296625,2024-01-21,Wallet,Pending
+1182,Anya Wagle,Bhopal,Home Appliances,Microwave,Boat,5,17115,85575,2025-03-26,UPI,Cancelled
+1183,Oorja Ramachandran,Pune,Electronics,Tablet,VIP,2,59186,118372,2024-02-06,Credit Card,Pending
+1184,Mahika Shukla,Indore,Home Appliances,Fridge,Boat,2,12974,25948,2024-04-22,UPI,Cancelled
+1185,Myra Dey,Bhopal,Clothing,Kurti,Bajaj,2,28649,57298,2025-07-15,Credit Card,Delivered
+1186,Eva Sur,Indore,Clothing,T-Shirt,Tata,1,30363,30363,2025-02-27,Debit Card,Pending
+1187,Rati Brahmbhatt,Indore,Electronics,Laptop,FabIndia,5,40749,203745,2025-08-26,Wallet,Pending
+1188,Krish Seshadri,Mumbai,Home Appliances,Mixer,FabIndia,4,23790,95160,2023-10-18,UPI,
+1189,Reyansh Sawhney,Mumbai,Clothing,T-Shirt,Tata,2,31516,63032,2024-11-28,COD,Pending
+1190,Taran Divan,Jabalpur,Clothing,Jeans,Haldiram,4,38561,154244,2025-04-21,Wallet,
+1191,Rhea Mannan,Bhopal,Home Appliances,Washing Machine,Tata,4,52833,211332,2024-10-13,,Cancelled
+1192,Nakul Bhandari,Indore,Clothing,Kurti,,3,50897,152691,2024-07-20,Debit Card,Delivered
+1193,Samarth Raju,Mumbai,Electronics,Headphones,Haldiram,4,13216,52864,2024-10-31,Credit Card,Delivered
+1194,Emir Chaudhari,Bhopal,Home Appliances,Fridge,,1,54310,54310,2024-03-23,UPI,Delivered
+1195,Eva Sahni,Pune,Home Appliances,Washing Machine,FabIndia,3,48457,145371,2024-04-10,,Cancelled
+1196,Taran Walla,Mumbai,Home Appliances,Fan,VIP,1,7699,7699,2024-06-19,Wallet,Pending
+1197,Hridaan Mandal,Indore,Electronics,Laptop,Boat,5,14736,73680,2024-03-26,,Pending
+1198,Taran Dalal,Indore,Electronics,Camera,Tata,5,12088,60440,2024-03-02,Debit Card,Pending
+1199,Manikya Trivedi,Jabalpur,Electronics,Camera,Bajaj,5,3066,15330,2024-12-27,UPI,Cancelled
+1200,Jivin Khalsa,Pune,Electronics,Headphones,,5,38422,192110,2024-10-27,Wallet,
