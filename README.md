@@ -22,7 +22,7 @@ The project includes **one main dataset**, over **10,000 rows**, and demonstrate
 - Data analysis with **Python & Pandas**  
 - Creating **monthly sales trends, brand revenue, and top product insights**  
 - Visualizing data with **Bar, Line, Pie, Donut, and Waterfall charts**  
-- Identifying **top cities, high-value products, and payment patterns**  
+- Identifying **top cities, high-value products, and payment patterns** 
 - Tracking operational gaps like **delivery status not updated**  
 
 ---
